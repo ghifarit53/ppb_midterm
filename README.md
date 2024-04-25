@@ -4,7 +4,7 @@ Name: Muhammad Ghifari Taqiuddin
 NRP: 5025211063  
 Class: IUP  
 
-Run on physical device
+I was stuck for 1 hour trying to figure out why database wasn't working, turns out it only works on emulator/real devices, where I was using web emulator. Then this was run on physical device
 
 ![Screenshot_20240425_172302](https://github.com/ghifarit53/ppb_midterm/assets/59758342/89f4e13b-d22e-4b01-b49e-a8466424451b)
 
