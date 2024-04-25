@@ -1,8 +1,8 @@
 # PPB Midterm
 
-Name: Muhammad Ghifari Taqiuddin 
-NRP: 5025211063 
-Class: IUP 
+Name: Muhammad Ghifari Taqiuddin  
+NRP: 5025211063  
+Class: IUP  
 
 Run on physical device
 
